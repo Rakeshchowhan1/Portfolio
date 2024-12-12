@@ -1,1 +1,1 @@
-https://github.com/Rakeshchowhan1/Portfolio/
+https://rakeshchowhan1.github.io/Portfolio/
